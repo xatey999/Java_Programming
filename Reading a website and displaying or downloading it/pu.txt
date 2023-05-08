@@ -1,0 +1,2024 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>An Official Site of Pokhara University &#8211; Pokhara University</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//pu.edu.np' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pu.edu.np\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='auto-trigger-next-css-css' href='https://pu.edu.np/wp-content/plugins/auto-advance-for-gravity-forms/css/aafg_styles.css?ver=77' type='text/css' media='all' />
+<link rel='stylesheet' id='wpts_ui_css-css' href='https://pu.edu.np/wp-content/plugins/wordpress-post-tabs/css/styles/default/style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://pu.edu.np/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-block-style-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/style-wpzoom-social-icons.css?ver=4.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://pu.edu.np/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://pu.edu.np/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css' href='https://pu.edu.np/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-image-css' href='https://pu.edu.np/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=3.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://pu.edu.np/wp-includes/css/dashicons.min.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_fonts-css' href='https://pu.edu.np/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css' href='https://pu.edu.np/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css' href='https://pu.edu.np/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=3.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_googlefonts-css' href='https://fonts.googleapis.com/css?family=Ubuntu&#038;subset=greek,latin,greek-ext,vietnamese,cyrillic-ext,latin-ext,cyrillic' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css' href='https://pu.edu.np/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bg-shce-genericons-css' href='https://pu.edu.np/wp-content/plugins/show-hidecollapse-expand/assets/css/genericons/genericons.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bg-show-hide-css' href='https://pu.edu.np/wp-content/plugins/show-hidecollapse-expand/assets/css/bg-show-hide.css?ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://pu.edu.np/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css' href='https://pu.edu.np/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.4.10' type='text/css' media='all' />
+<link rel='stylesheet' id='dflip-icons-style-css' href='https://pu.edu.np/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/themify-icons.min.css?ver=1.7.35' type='text/css' media='all' />
+<link rel='stylesheet' id='dflip-style-css' href='https://pu.edu.np/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=1.7.35' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-socicon-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-socicon.css?ver=1667801467' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-genericons-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/genericons.css?ver=1667801467' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-academicons-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/academicons.min.css?ver=1667801467' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-font-awesome-3-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/font-awesome-3.min.css?ver=1667801467' type='text/css' media='all' />
+<link rel='stylesheet' id='wpzoom-social-icons-styles-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/css/wpzoom-social-icons-styles.css?ver=1667801467' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://pu.edu.np/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<link rel='stylesheet' id='abcfsl-staff-list-css' href='https://pu.edu.np/wp-content/plugins/staff-list/css/staff-list.css?ver=1.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='lovelypokhara/ionicons.css-css' href='https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/main.css-css' href='https://pu.edu.np/wp-content/themes/pucomnp/dist/styles/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/custom.css-css' href='https://pu.edu.np/wp-content/themes/pucomnp/dist/styles/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='saged/d/style.css-css' href='https://pu.edu.np/wp-content/themes/pucomnp/dist/styles/style.css' type='text/css' media='all' />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-ttf-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.ttf?v=1.9.2'  type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-academicons-woff-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/academicons.woff?v=1.9.2'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-ttf-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.ttf?v=4.7.0'  type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff?v=4.7.0'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-fontawesome-3-woff2-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/fontawesome-webfont.woff2?v=4.7.0'  type='font/woff2' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-ttf-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.ttf'  type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-genericons-woff-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/Genericons.woff'  type='font/woff' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-ttf-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.ttf?v=4.2.8'  type='font/ttf' crossorigin />
+<link rel='preload' as='font'  id='wpzoom-social-icons-font-socicon-woff-css' href='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff?v=4.2.8'  type='font/woff' crossorigin />
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.4.6' id='sumoselect-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.4.5' id='jquery-mobile-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=3.1.5' id='mCustomScrollbar-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/jquery.fullscreen.min.js?ver=0.6.0' id='jquery-fullscreen-js'></script>
+<script type='text/javascript' id='bwg_frontend-js-extra'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_exit_fullscreen":"Exit Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":"","bwg_play":"Play","bwg_pause":"Pause","bwg_hide_info":"Hide info","bwg_show_info":"Show info","bwg_hide_rating":"Hide rating","bwg_show_rating":"Show rating","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"https:\/\/pu.edu.np\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0","bwg_tag_see_all":"see all tags","bwg_tag_see_less":"see less tags","page_speed":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.8.1' id='bwg_frontend-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/photo-gallery/js/circle-progress.js?ver=1.8.1' id='bwg_speed_circle-js'></script>
+<script type='text/javascript' id='wpm-6310-ajax-script-js-extra'>
+/* <![CDATA[ */
+var my_ajax_object = {"ajax_url":"https:\/\/pu.edu.np\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/team-showcase-supreme/assets/js/ajaxdata.js?ver=6.1.1' id='wpm-6310-ajax-script-js'></script>
+<link rel="https://api.w.org/" href="https://pu.edu.np/wp-json/" /><link rel="alternate" type="application/json" href="https://pu.edu.np/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pu.edu.np/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pu.edu.np/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel="canonical" href="https://pu.edu.np/" />
+<link rel='shortlink' href='https://pu.edu.np/' />
+<link rel="alternate" type="application/json+oembed" href="https://pu.edu.np/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpu.edu.np%2Fevents%2Fworkshop-on-course-detailing-of-b-pharm%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://pu.edu.np/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpu.edu.np%2Fevents%2Fworkshop-on-course-detailing-of-b-pharm%2F&#038;format=xml" />
+<script data-cfasync="false"> var dFlipLocation = "https://pu.edu.np/wp-content/plugins/3d-flipbook-dflip-lite/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"DearFlip: Loading "},"moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","scrollWheel":"true","backgroundColor":"#777","backgroundImage":"","height":"auto","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","duration":800,"soundEnable":"true","enableDownload":"true","enableAnnotation":"false","enableAnalytics":"false","webgl":"true","hard":"none","maxTextureSize":"1600","rangeChunkSize":"524288","zoomRatio":1.5,"stiffness":3,"pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":5000,"autoPlayStart":"false","linkTarget":"2","sharePrefix":"dearflip-"};</script><form role="search" method="get" class="search-form" action="https://pu.edu.np/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			<input type="hidden" name="id" value="30405" /></form>  <script type="text/javascript" src="https://pu.edu.np/wp-content/themes/pucomnp/dist/scripts/parallax.min.js"></script>
+</head>
+  <body data-rsssl=1 class="home page-template-default page page-id-5 wp-custom-logo pucomnp/resources app-data index-data singular-data page-data page-5-data page-home-data front-page-data">
+                  <div class="parallax-window" data-parallax="scroll" data-image-src="https://pu.edu.np/wp-content/uploads/2020/01/banner-pu-scaled.jpg">
+          <div class="parx-content"><h1></h1></div>
+          <div class="scroll-down" onclick="jQuery('html,body').animate({ scrollTop: window.innerHeight - 100 },500);">Explore PU</div>
+        </div>
+            <style>
+    header .main-navigation img.regular-logo, header .main-navigation img.white-logo{
+        max-width:250px!important;
+    }
+    header .nav-link{padding:0.5rem 0.3rem!important;}
+    header.heromode .header-top{background:#052B5D!important;}
+    header.heromode .header-top ul li a{color:#fff!important;font-size:11px!important;}
+    header.heromode .header-top ul li a:hover{color:#fff!important;text-decoration: none!important}
+    header.heromode.fixedmode .main-navigation nav.navbar a.navbar-brand{background:#fff!important;padding:5px 0!important;margin-top:0!important;}
+    header:not(.heromode){box-shadow: none}
+    .home header.heromode{background:#fff;}
+    header .main-navigation nav.navbar #navbar{align-items: center;justify-content: center;background: #fff;padding:0 10px;border-radius: 55px 0 0 48px}
+    .main-navigation{margin-bottom:0px; background: #fff;}
+    header .main-navigation nav.navbar #navbar ul.navbar-nav li.nav-item a.nav-link{color:#fff!important;}
+    .home header.heromode .main-navigation nav.navbar #navbar ul.navbar-nav li.nav-item a.nav-link{color:#000;}
+    header .main-navigation nav.navbar #navbar ul.navbar-nav li.nav-item a.nav-link{font-size:16px;padding-left:12px!important;padding-right:12px!important;color:#000!important;}
+    header{border-top:solid 1px #172435!important;}
+    .main-navigation{margin-top:0px;}
+    #menu-quick-menu-1{column-count: 2;background:#052b5c;padding:5px 20px;border-left:1px solid #ffffff40;}
+    #menu-quick-menu-1 li{padding-bottom:7px;}
+    #menu-quick-menu-1 li a{font-size: 12px;padding:0;text-align: left;color: #fff;}
+    header .main-navigation nav.navbar{padding:0!important;}
+    body #menu-quick-menu-1 .dropdown-menu .nav-item a.nav-link{color:#052b5c!important;}
+    body #menu-quick-menu-1 .dropdown-menu{border:solid 1px red;}
+    header .main-navigation nav.navbar #navbar ul.navbar-nav li.nav-item a.nav-link:hover{color:#000!important;}
+    @media  and (max-width:767px){
+        body #menu-quick-menu-1{display:none!important;}
+    }
+    body .navbar-form-search .search-form-container.hdn{display:block!important;visibility:visible!important;opacity:1!important;width:100%!important;}
+
+    
+    /**.search-bar{display:none!important;margin-top:2px;}**/
+    /*
+    .parallax-window{height:75vh!important;}
+    .top-sidebar-menu{position: relative;}    
+    .navbar-form-search .search-form-container .form-control{width:100%;font-size:14px;}
+    */
+    /**.top-sidebar-menu .search-bar{position: absolute;bottom: 0;right: 5px}**/    
+    /** search bar **/
+    /*
+    .search-link-btn{position: relative!important;}
+    .search-link-btn .ion-md-search{font-size: 18px;position: absolute;top: 3px;left: 0;}
+
+    .counter .counter-wrapper .single-counter img{width:45px!important;margin-bottom:10px!important;}
+    .counter .counter-wrapper .single-counter img.student-svg{margin-bottom:10px!important;}
+    .counter .counter-wrapper .single-counter h4{font-size:14px!important;margin-bottom:0!important;}
+    .counter .counter-wrapper .single-counter{font-size:26px!important;}
+    */
+
+    
+</style>
+<header>
+    <div class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">                   
+                                            <ul id="menu-top-menu" class="list-unstyled text-right"><li class=" astm-search-menu is-menu sliding is-first menu-item"><a href="#" aria-label="Search Icon Link"><svg width="20" height="20" class="search-icon" role="img" viewBox="2 9 20 5" focusable="false" aria-label="Search">
+						<path class="search-icon-path" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg></a><form role="search" method="get" class="search-form" action="https://pu.edu.np/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form><div class="search-close"></div></li><li class="nav-item menu-item menu-publications"><a class="nav-link" target="_blank" rel="noopener" href="https://pu.edu.np/publications/">Publications</a></li>
+<li class="nav-item menu-item dropdown menu-item-has-children menu-apply-online"><a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Apply Online <b class="caret"></b></a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	<li class="nav-item menu-item menu-educational-data-form"><a class="nav-link" href="https://pu.edu.np/educational-data-form/">Educational Data Form</a></li>
+	<li class="nav-item menu-item menu-verify-entrance-card"><a class="nav-link" href="https://pu.edu.np/verify-entrance-card/">Verify Entrance Card</a></li>
+</ul>
+</li>
+<li class="active nav-item menu-item dropdown menu-item-has-children menu-news-notices"><a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="https://pu.edu.np/" aria-current="page">News/Notices <b class="caret"></b></a>
+<ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+	<li class="nav-item menu-item menu-news"><a class="nav-link" href="https://pu.edu.np/noticetype/news/">News</a></li>
+	<li class="nav-item menu-item menu-notice"><a class="nav-link" href="https://pu.edu.np/notice/">Notice</a></li>
+</ul>
+</li>
+<li class="nav-item menu-item menu-scholarship"><a class="nav-link" target="_blank" rel="noopener" href="https://scholarship.pu.edu.np/">Scholarship</a></li>
+<li class="nav-item menu-item menu-library"><a class="nav-link" href="https://pu.edu.np/library/">Library</a></li>
+<li class="nav-item menu-item menu-online-resources"><a class="nav-link" target="_blank" rel="noopener" href="https://ebookcentral.proquest.com/lib/pokharuniv/home.action">Online Resources</a></li>
+<li class="nav-item menu-item menu-student"><a class="nav-link" target="_blank" rel="noopener" href="https://pu.edu.np/student-welfare/">Student</a></li>
+<li class="nav-item menu-item menu-login"><a class="nav-link" target="_blank" rel="noopener" href="https://outlook.office.com/mail/">Login</a></li>
+</ul>
+                                        <div class="search-bar">
+                        <form class="navbar-form navbar-right navbar-form-search" role="search" action="https://pu.edu.np">
+                            <div class="search-form-container hdn" id="search-input-container">
+                                <div class="search-input-group">
+                                    <div class="form-group">
+                                        <input type="text" name="s" autocomplete="off" spellcheck="false" class="form-control" placeholder="Search for..." id="search-bar">
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-default" id="search-button"><i class="ion ion-md-search"   aria-hidden="true"></i></button>
+                        </form>
+                    </div>                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main-navigation">
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-lg-12">
+                    <!-- Desktop Menu starts -->
+                    <nav class="navbar navbar-expand-lg navbar-light justify-content-between desktop">
+                        <a class="navbar-brand" href="https://pu.edu.np">
+                                                        <img src="https://pu.edu.np/wp-content/uploads/2020/01/pu_logo_new.png" class="regular-logo" alt="An Official Site of Pokhara University" />
+                            
+                        </a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse desktop-menu" id="navbar">
+                            <!--Main navigation list-->
+                                                            
+                                
+                                <ul id="menu-main-menu" class="nav navbar-nav ml-auto"><li class="nav-item dropdown nav-item menu-item menu-about-us">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/about-us/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/about-us/general-information/">General Information</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/message-from-vc/">Message from VC</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/university-service-commission/">University Service Commission</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/governance/">Governance</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/planning-division/">Planning &#038; Program Division</a><a class="dropdown-item"  href="https://pu.edu.np/pokhara-university-teaching-hospital/">Pokhara University Teaching Hospital</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-academics">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/academics/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/academics/faculties/">Faculties</a><a class="dropdown-item"  href="https://pu.edu.np/academics/schools-colleges/">Schools &#038; Colleges</a><a class="dropdown-item"  target="_blank" href="https://pu.edu.np/academics/programs/">Programs</a><a class="dropdown-item"  href="https://pu.edu.np/academics/cdc/">Curriculum Development Center</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-admission">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/academics/schools-colleges/constituent-schools/shas/admission/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/undergraduate/">Undergraduate</a><a class="dropdown-item"  href="https://pu.edu.np/graduate/">Graduate</a><a class="dropdown-item"  href="https://pu.edu.np/mphil/">MPhil</a><a class="dropdown-item"  href="https://pu.edu.np/academics/faculties/fhss/phdadmission/phd/">PhD</a>
+</div>
+</li>
+<li class="active nav-item dropdown nav-item menu-item menu-research">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/research/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/research/purc/?preview=true">PU Research Center</a><a class="dropdown-item"  href="https://pu.edu.np/research/school-research/">School Research</a><a class="dropdown-item"  href="https://pu.edu.np/cds/">Council for Doctoral Studies</a><a class="dropdown-item"  href="https://pu.edu.np">PhD Abstract</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-examination">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/examination/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Examination</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  target="_blank" href="https://pouexam.edu.np/">Examination Portal</a><a class="dropdown-item"  href="https://pu.edu.np/examination/general-information/">General Information</a><a class="dropdown-item"  href="https://pu.edu.np/noticetype/examination/">Notices</a><a class="dropdown-item"  href="https://pu.edu.np/noticetype/examination/">Results</a><a class="dropdown-item"  href="https://pu.edu.np/examination/academic-system/">Academic System</a><a class="dropdown-item"  href="https://pu.edu.np/examination/academic-calendar/">Academic Calendar</a><a class="dropdown-item"  href="https://pu.edu.np/examination/citizen-charter/">Citizen Charter</a><a class="dropdown-item"  href="https://pu.edu.np/examination/exam-related-forms/">Exam Related Forms</a><a class="dropdown-item"  href="https://pu.edu.np/examination/pokhara-university-convocation/">Convocation</a><a class="dropdown-item"  href="https://pu.edu.np/examination/contact-us/">Contact Us</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-global">
+	<a class="nav-link dropdown-toggle"  href="https://www.pu.edu.np" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Global</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/global/ic/">International Center</a><a class="dropdown-item"  target="_blank" href="http://innotal.unwe.bg/">Innotal Project</a><a class="dropdown-item"  href="https://pu.edu.np/30820-2/">Aurora Project</a><a class="dropdown-item"  href="https://fab-project.eu/">FAB Erasmus+ Project</a><a class="dropdown-item"  href="https://pu.edu.np/tccl/">Talent Co-Creation Lab (TCCL)</a><a class="dropdown-item"  href="https://pu.edu.np/global/partner-institutions/">Partner Institutions</a><a class="dropdown-item"  href="https://pu.edu.np/global/mou-latest-news-headlines/">MoU Latest News &#038; Headlines</a><a class="dropdown-item"  href="https://pu.edu.np/gphoto-gallery/">Photo Gallery</a>
+</div>
+</li>
+</ul>
+                                                        <!--Main navigation list-->
+                        </div>
+                        <!--end navbar-collapse-->
+                    </nav>
+                    <!--end navbar-->
+                </div>
+                <!--<div class="col-lg-3 top-sidebar-menu">
+                    
+                                            
+                                        <div class="search-bar">
+                        <form class="navbar-form navbar-right navbar-form-search" role="search" action="https://pu.edu.np">
+                            <div class="search-form-container" id="search-input-container">
+                                <div class="search-input-group">
+                                    <div class="form-group">
+                                        <input type="text" name="s" autocomplete="off" spellcheck="false" class="form-control" placeholder="Search for..." id="search-bar">
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-default" id="search-button"><i class="ion ion-md-search"   aria-hidden="true"></i></button>
+                        </form>
+                    </div>                      
+                </div> -->
+
+
+
+            <!-- Desktop Menu ends -->
+
+            <!-- Mobile  Menu starts -->
+
+            <div class="mobile-menu">
+
+                <nav class="navbar-light">
+                    <a class="navbar-brand" href="https://pu.edu.np">
+                        <img src="https://pu.edu.np/wp-content/uploads/2020/01/pu_logo_new.png" class="regular-logo" alt="An Official Site of Pokhara University" />
+                                                    <img src="https://pu.edu.np/wp-content/uploads/2019/02/logo_pu.png" class="white-logo" alt="An Official Site of Pokhara University" />
+                                            </a>
+                    <button class="navbar-toggler navbar-toggle-offcanvas-right text-right">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <!--end navbar-collapse-->
+                </nav>
+
+                <div class="menu-overlay"></div>
+                <div class="mobile-menu-wrapper">
+                    <button class="navbar-toggler text-right mobile-toggle">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="menu-wrapper-sidebar">
+                                                    
+                            
+                            <ul id="menu-main-menu-1" class="navbar-nav ml-auto"><li class="nav-item dropdown nav-item menu-item menu-about-us">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/about-us/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/about-us/general-information/">General Information</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/message-from-vc/">Message from VC</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/university-service-commission/">University Service Commission</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/governance/">Governance</a><a class="dropdown-item"  href="https://pu.edu.np/about-us/planning-division/">Planning &#038; Program Division</a><a class="dropdown-item"  href="https://pu.edu.np/pokhara-university-teaching-hospital/">Pokhara University Teaching Hospital</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-academics">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/academics/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Academics</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/academics/faculties/">Faculties</a><a class="dropdown-item"  href="https://pu.edu.np/academics/schools-colleges/">Schools &#038; Colleges</a><a class="dropdown-item"  target="_blank" href="https://pu.edu.np/academics/programs/">Programs</a><a class="dropdown-item"  href="https://pu.edu.np/academics/cdc/">Curriculum Development Center</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-admission">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/academics/schools-colleges/constituent-schools/shas/admission/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admission</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/undergraduate/">Undergraduate</a><a class="dropdown-item"  href="https://pu.edu.np/graduate/">Graduate</a><a class="dropdown-item"  href="https://pu.edu.np/mphil/">MPhil</a><a class="dropdown-item"  href="https://pu.edu.np/academics/faculties/fhss/phdadmission/phd/">PhD</a>
+</div>
+</li>
+<li class="active nav-item dropdown nav-item menu-item menu-research">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/research/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/research/purc/?preview=true">PU Research Center</a><a class="dropdown-item"  href="https://pu.edu.np/research/school-research/">School Research</a><a class="dropdown-item"  href="https://pu.edu.np/cds/">Council for Doctoral Studies</a><a class="dropdown-item"  href="https://pu.edu.np">PhD Abstract</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-examination">
+	<a class="nav-link dropdown-toggle"  href="https://pu.edu.np/examination/" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Examination</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  target="_blank" href="https://pouexam.edu.np/">Examination Portal</a><a class="dropdown-item"  href="https://pu.edu.np/examination/general-information/">General Information</a><a class="dropdown-item"  href="https://pu.edu.np/noticetype/examination/">Notices</a><a class="dropdown-item"  href="https://pu.edu.np/noticetype/examination/">Results</a><a class="dropdown-item"  href="https://pu.edu.np/examination/academic-system/">Academic System</a><a class="dropdown-item"  href="https://pu.edu.np/examination/academic-calendar/">Academic Calendar</a><a class="dropdown-item"  href="https://pu.edu.np/examination/citizen-charter/">Citizen Charter</a><a class="dropdown-item"  href="https://pu.edu.np/examination/exam-related-forms/">Exam Related Forms</a><a class="dropdown-item"  href="https://pu.edu.np/examination/pokhara-university-convocation/">Convocation</a><a class="dropdown-item"  href="https://pu.edu.np/examination/contact-us/">Contact Us</a>
+</div>
+</li>
+<li class="nav-item dropdown nav-item menu-item menu-global">
+	<a class="nav-link dropdown-toggle"  href="https://www.pu.edu.np" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Global</a>
+<div class="dropdown-menu" role="menu">
+<a class="dropdown-item"  href="https://pu.edu.np/global/ic/">International Center</a><a class="dropdown-item"  target="_blank" href="http://innotal.unwe.bg/">Innotal Project</a><a class="dropdown-item"  href="https://pu.edu.np/30820-2/">Aurora Project</a><a class="dropdown-item"  href="https://fab-project.eu/">FAB Erasmus+ Project</a><a class="dropdown-item"  href="https://pu.edu.np/tccl/">Talent Co-Creation Lab (TCCL)</a><a class="dropdown-item"  href="https://pu.edu.np/global/partner-institutions/">Partner Institutions</a><a class="dropdown-item"  href="https://pu.edu.np/global/mou-latest-news-headlines/">MoU Latest News &#038; Headlines</a><a class="dropdown-item"  href="https://pu.edu.np/gphoto-gallery/">Photo Gallery</a>
+</div>
+</li>
+</ul>
+                                                <div class="search-bar">
+                            <form action="https://pu.edu.np" class="navbar-form navbar-right navbar-form-search" role="search">
+                                <div class="search-form-container" id="search-input-container">
+                                    <div class="search-input-group">
+                                        <div class="form-group">
+                                            <input type="text" name="s" autocomplete="off" spellcheck="false" class="form-control" placeholder="Search for...">
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit" class="btn btn-default" id="search-button"><i class="ion ion-md-search"   aria-hidden="true"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile  Menu ends -->
+            </div>
+        </div>
+        <!--end container-->
+    </div>
+</header>
+
+      
+      <div class="main-page-wrapper">
+      
+      <div class="wrap" role="document">
+        <div class="content">
+          <main class="main">
+            	
+       <div class="content-without-slider test">
+									<section class="notice">
+    <div class="container">
+        <div class="row no-gutters">
+            <div class="col-md-12 gray-bg">
+                <div class="notice-content p-lr-25">
+                    <h2>NOTICE BOARD</h2>
+                    <div class="filters">
+                        <ul class="nav nav-tabs">
+                                                        <li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#all">ALL</a></li>
+                                                             
+                                <li class="nav-item"><a class="nav-link notice-section-college" data-toggle="tab" href="#college">College</a></li>
+                                                                                             
+                                <li class="nav-item"><a class="nav-link notice-section-examination" data-toggle="tab" href="#examination">Examination</a></li>
+                                                                                             
+                                <li class="nav-item"><a class="nav-link notice-section-general-notice" data-toggle="tab" href="#general-notice">General</a></li>
+                                                                                                                                                         
+                                <li class="nav-item"><a class="nav-link notice-section-procurement" data-toggle="tab" href="#procurement">Procurement</a></li>
+                                                                                             
+                                <li class="nav-item"><a class="nav-link notice-section-scholarship" data-toggle="tab" href="#scholarship">Scholarship</a></li>
+                                                                                    </ul>
+                    </div>                    
+                    <div class="tab-content">
+                        <div class="tab-pane container active" id="all">
+                            <div class="row clearfix">
+                                <div class="col-md-12">
+                                    <div class="card-columns">                                        
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 7, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/scholarship/" class="badge badge-secondary">Scholarship</a>
+									<span class="badge badge-secondary badge-new">New</span>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b-%e0%a4%b5%e0%a4%bf-%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9%e0%a4%ae%e0%a4%be-%e0%a5%a8%e0%a5%a6%e0%a5%ad%e0%a5%af-%e0%a4%b8%e0%a4%be%e0%a4%b2/">पो.वि. स्नातक तहमा २०७९ सालको छात्रवृत्ति छनौंट तथा भर्ना प्रकृया समाप्त भएको सूचना ।</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 2, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/college/" class="badge badge-secondary">College</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-24/">विज्ञान तथा प्रविधि सङ्कायः स्नातकोत्तर तहको छात्रबृत्तिको Third Award List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 2, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/scholarship/" class="badge badge-secondary">Scholarship</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9-%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%bf-%e0%a4%95%e0%a4%be/">स्नातक तह छात्रवृत्ति कार्यक्रम विज्ञान तथा प्रविधि संकाय समूह &#8220;क&#8221; को Third-Awarded List प्रकाशित सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 1, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/general-notice/" class="badge badge-secondary">General</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80-%e0%a4%b2%e0%a4%97%e0%a4%be%e0%a4%af%e0%a4%a4-%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%af-5/">सुरक्षाकर्मी लगायत अन्य सेवा ( कार्यालय सहयोगी, कुचिकार, हेल्पर, सवारी चालक) करारमा लिनेसम्बन्धी बोलपत्र आव्हानको सूचना</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 1, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/general-notice/" class="badge badge-secondary">General</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a5%80-%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf/">परीक्षासम्बन्धी पोखरा विश्वविद्यालयको अत्यन्त जरूरी सूचना ।</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 30, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/college/" class="badge badge-secondary">College</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/admission-notice-for-ballb-program/">Admission Notice for BALLB Program</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/college/" class="badge badge-secondary">College</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/soe-invitation-for-sealed-quotation/">School of Engineering: Invitation for Sealed Quotation for the Procurement of Internet Bandwidth</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/college/" class="badge badge-secondary">College</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%88%e0%a4%9e%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%b0%e0%a4%bf%e0%a4%99%e0%a4%83-%e0%a4%aa%e0%a5%82/">स्कूल अफ ईञ्जिनियरिङः पूर्णकालीन करार सेवामा शिक्षक पदपूर्तिको नतिजा प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/general-notice/" class="badge badge-secondary">General</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b6%e0%a4%bf%e0%a4%95-8/">पोखरा विश्वविद्यालय शिक्षण अस्पतालः सामाग्री तथा सेवा आपूर्ति गर्न सूचि दर्ता गराउनेसम्बन्धी सूचना ।</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 24, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/examination/" class="badge badge-secondary">Examination</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a5%a8%e0%a5%a6%e0%a5%a8%e0%a5%a8-%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95%e0%a4%95%e0%a5%8b-%e0%a4%b0%e0%a4%9c%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b6/">२०२२ स्नातकको रजिष्ट्रेशन फाइल बुझाउने सम्बन्धी सूचना !!!</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 24, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/general-notice/" class="badge badge-secondary">General</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/invitation-for-bids-for-the-procurement-of-books-2/">Invitation for Bids for the Procurement of Books</a></h3>
+	</div>
+</div>
+                                                         
+                                            <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 21, 2023</p>
+			<div class="tags">
+				<a href="https://pu.edu.np/noticetype/general-notice/" class="badge badge-secondary">General</a>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%87%e0%a4%b5-30/">पोखरा विश्वविद्यालय सेवा अयोगको कार्यालयः उप–प्राध्यापक पदको लिखित परीक्षासम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                                                    
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="v-more ">
+                                <a href="https://pu.edu.np/notice/">view more</a>
+                            </div>                            
+                        </div>                        
+                                                    <div class="tab-pane container notice-section-college" id="college">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 2, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-24/">विज्ञान तथा प्रविधि सङ्कायः स्नातकोत्तर तहको छात्रबृत्तिको Third Award List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 30, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/admission-notice-for-ballb-program/">Admission Notice for BALLB Program</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/soe-invitation-for-sealed-quotation/">School of Engineering: Invitation for Sealed Quotation for the Procurement of Internet Bandwidth</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%88%e0%a4%9e%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%b0%e0%a4%bf%e0%a4%99%e0%a4%83-%e0%a4%aa%e0%a5%82/">स्कूल अफ ईञ्जिनियरिङः पूर्णकालीन करार सेवामा शिक्षक पदपूर्तिको नतिजा प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 17, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/faculty-of-science-and-technology-%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%ac%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%bf-%e0%a4%a6%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%b0%e0%a5%8b-award-list/">Faculty of Science and Technology: स्नातकोत्तरतहको छात्रबृत्ति दोस्रो Award List प्रकाशन सम्बन्धि सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 17, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%87%e0%a4%9e%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%b0%e0%a4%bf%e0%a4%99%e0%a4%95%e0%a5%8b-%e0%a4%b8-4/">स्कूल अफ इञ्जिनियरिङको स्नातकोत्तरतहको Paying/Scholarship सिटमा भर्नासम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 16, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%a1%e0%a5%87%e0%a4%ad%e0%a4%b2%e0%a4%aa%e0%a4%ae%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%9f-%e0%a4%8f%e0%a4%a3%e0%a5%8d%e0%a4%a1-15/">स्कूल अफ डेभलपमेन्ट एण्ड सोसल इञ्जिनियरिङः पूर्णकालीन करार सेवामा उप–प्राध्यापक पदको नतिजा प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 12, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/sdse-orientation-program-notice/">School of Development and Social Engineering: Orientation Program Notice</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 10, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%87%e0%a4%9e%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%b0%e0%a4%bf%e0%a4%99%e0%a4%83-%e0%a4%aa%e0%a5%82/">स्कूल अफ इञ्जिनियरिङः पूर्णकालीन करार सेवामा शिक्षक पदपूर्तिसम्बन्धी लिखित परीक्षाको नतिजा प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 10, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%be-17/">विज्ञान तथा प्रविधि संकायः स्नातकोत्तरतहका कार्यक्रमहरूको पूर्णशुल्कीय तर्फ दोस्रो प्रवेश परीक्षाको Merit List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 10, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2-%e0%a4%85%e0%a4%ab-%e0%a4%a1%e0%a5%87%e0%a4%ad%e0%a4%b2%e0%a4%aa%e0%a4%ae%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%9f-%e0%a4%8f%e0%a4%a3%e0%a5%8d%e0%a4%a1-14/">स्कूल अफ डेभलपमेन्ट एण्ड सोसल इञ्जिनियरिङः कानून विषयको पूर्णकालीन करार सेवामा उप–प्राध्यापक पदको लिखित परीक्षाको नतिजा र अन्तर्वार्तासम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 6, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/soe-orientation-program/">School of Engineering: Notice of Orientation Program for Bachelor Level Programs</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/college/">view more</a>
+                                </div>                            
+                            </div>
+                                                    <div class="tab-pane container notice-section-examination" id="examination">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 24, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a5%a8%e0%a5%a6%e0%a5%a8%e0%a5%a8-%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95%e0%a4%95%e0%a5%8b-%e0%a4%b0%e0%a4%9c%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b6/">२०२२ स्नातकको रजिष्ट्रेशन फाइल बुझाउने सम्बन्धी सूचना !!!</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">August 11, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be-%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%a8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a3-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af-26/">परीक्षा नियन्त्रण कार्यालयको आधिकारिक Website सम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 26, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/rechecking-retotaling-result-management-bachelor-and-bca-fall-2021/">Rechecking Retotaling Result: Management Bachelor and BCA Fall-2021</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 26, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/rechecking-and-retotaling-result_engineering_fall_2021_2-8th-sem/">Rechecking and Retotaling Result_Engineering_Fall_2021_2-8th Sem</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 5, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-management-bachelor-programs-and-bca-fall-2021/">Result: Management Bachelor Programs and BCA &#8211; (Fall 2021)</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 5, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-engineering-bachelor-programs/">Result: Engineering Bachelor Programs</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 5, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-m-pharm-msc-cm-msc-eeps-msc-iwrm-msc-team-msc-nrm-mph-spring-2021/">Result: M.Pharm, MSc CM, MSc EEPS, MSc IWRM, MSc TEAM, MSc NRM, MPH (Spring 2021)</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 5, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-bsc-mb-bsc-mm-bdevs-fall-2021/">Result: Bsc MB, BSc MM, BDEVS ( Fall 2021)</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 1, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/master_spring-2021/">Master_Spring 2021</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">July 1, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-bachelor_fall-2021/">Result: Bachelor_Fall 2021</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">June 23, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/result-mhcm-pgdhcm-emba-spring-2021/">Result: MHCM, PGDHCM, EMBA (Spring 2021)</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">June 21, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/rechecking-retotaling-result-fall-2021-1st-semester-management-bachelor-programs-and-bca/">Rechecking Retotaling Result (Fall 2021) &#8211; 1st Semester &#8211; Management Bachelor Programs and BCA</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/examination/">view more</a>
+                                </div>                            
+                            </div>
+                                                    <div class="tab-pane container notice-section-general-notice" id="general-notice">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 1, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80-%e0%a4%b2%e0%a4%97%e0%a4%be%e0%a4%af%e0%a4%a4-%e0%a4%85%e0%a4%a8%e0%a5%8d%e0%a4%af-5/">सुरक्षाकर्मी लगायत अन्य सेवा ( कार्यालय सहयोगी, कुचिकार, हेल्पर, सवारी चालक) करारमा लिनेसम्बन्धी बोलपत्र आव्हानको सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 1, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a4%b0%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a5%80-%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf/">परीक्षासम्बन्धी पोखरा विश्वविद्यालयको अत्यन्त जरूरी सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 25, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b6%e0%a4%bf%e0%a4%95-8/">पोखरा विश्वविद्यालय शिक्षण अस्पतालः सामाग्री तथा सेवा आपूर्ति गर्न सूचि दर्ता गराउनेसम्बन्धी सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 24, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/invitation-for-bids-for-the-procurement-of-books-2/">Invitation for Bids for the Procurement of Books</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 21, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%87%e0%a4%b5-30/">पोखरा विश्वविद्यालय सेवा अयोगको कार्यालयः उप–प्राध्यापक पदको लिखित परीक्षासम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 11, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%85%e0%a4%a0%e0%a4%be%e0%a4%b0%e0%a5%8c%e0%a4%82-%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%b9%e0%a4%ae/">अठारौं दीक्षान्त समारोहमा भाग लिन Online फारम भर्नेसम्बन्धी जरूरी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 23, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/admission-notice-in-b-a-ll-b/">Admission Notice in B.A.LL.B program</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 23, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%ae%e0%a5%8d%e0%a4%ad%e0%a4%bf%e0%a4%95-%e0%a4%b5%e0%a4%be%e0%a4%a4%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%a3%e0%a5%80%e0%a4%af-%e0%a4%aa%e0%a4%b0%e0%a4%bf/">प्रारम्भिक वातावरणीय परिक्षण (IEE) को प्रतिवेदन तयारी सम्बन्धी सार्बजनिक सुनुवाई सम्बन्धी सार्वजनिक सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 11, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80-%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%ae%e0%a4%be-%e0%a5%a4-3/">जानकारी सम्बन्धमा ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 7, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%ae%e0%a4%be-%e0%a4%89%e0%a4%aa%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%a4-%e0%a4%b9%e0%a5%81%e0%a4%a8%e0%a5%87-%e0%a4%b8%e0%a4%ae/">वार्तामा उपस्थित हुने सम्बन्धमा ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">November 18, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8%e0%a5%80%e0%a4%af-%e0%a4%ac%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a5%80-%e0%a4%b8%e0%a5%82-2/">स्थानीय बिदासम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">November 12, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-19/">विज्ञान तथा प्रविधि सङ्कायः शिलबन्दी स्वीकृत गर्ने आशयको सूचना</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/general-notice/">view more</a>
+                                </div>                            
+                            </div>
+                                                    <div class="tab-pane container notice-section-news" id="news">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 7, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b0-%e0%a4%8f%e0%a4%a8/">पोखरा विश्वविद्यालय र एनएमबि बैंकबीच सम्झौता</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 5, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8-%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%a7/">स्वास्थ्य अनुसन्धान पद्धतिसम्बन्धी तालिम कार्यशाला</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 9, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%af%e0%a5%8b%e0%a4%97-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d/">अख्तियार दुरूपयोग अनुसन्धान आयोगद्वारा अन्तरक्रिया कार्यक्रम आयोजना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 9, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%b8%e0%a5%8d-2/">केन्द्रीय कार्यालय विस्तार लगायतको कार्यका लागि सम्झौता सम्पन्न</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">November 9, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%be-%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a5%8b-%e0%a4%85%e0%a4%b5%e0%a4%b8/">जापानमा उच्चशिक्षाको अवसरका लागि सम्वाद्</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">October 31, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be-%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a4%95%e0%a4%be-%e0%a4%a8%e0%a4%b5%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4-%e0%a4%aa%e0%a4%a6/">सेवा आयोगका नवनियुक्त पदाधिकारीलाई स्वागत</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">September 12, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%86%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8-%e0%a4%b8%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%88-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3-%e0%a4%95%e0%a4%be/">आजीवन सिकाई प्रशिक्षण कार्यक्रम सम्पन्न</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">September 8, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b6%e0%a4%bf%e0%a4%95-7/">पोखरा विश्वविद्यालय शिक्षण अस्पताल सञ्चालनमा</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">September 6, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/32565/">पोखरा विश्वविद्यालय र नेपाल स्वास्थ्य अनुसन्धान परिषद् बीच सम्झौता</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">September 5, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b6%e0%a5%88%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%95-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8-%e0%a4%b0-%e0%a4%a8%e0%a4%b5%e0%a4%bf%e0%a4%a8/">शैक्षिक अनुसन्धान र नविनतालाई सुव्यवस्थित गर्न कार्यशाला आयोजना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">August 7, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af%e0%a4%95%e0%a5%8b-%e0%a4%aa%e0%a5%8b/">पोखरा विश्वविद्यालयको पोलिटेक्निक अफ कार्टेजेना र युरोपियन युनिभर्सिटी अफ टेक्नोलोजीसित सम्झौता</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">August 2, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%a1%e0%a5%80%e0%a4%ac%e0%a5%81%e0%a4%9f%e0%a5%80%e0%a4%9c%e0%a4%a8%e0%a5%8d%e0%a4%af-%e0%a4%94%e0%a4%b7%e0%a4%a7%e0%a4%bf%e0%a4%95%e0%a5%8b-%e0%a4%b5%e0%a5%88%e0%a4%9c%e0%a5%8d%e0%a4%9e/">जडीबुटीजन्य औषधिको वैज्ञानिक अनुसन्धान कार्यमा सहकार्य</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/news/">view more</a>
+                                </div>                            
+                            </div>
+                                                    <div class="tab-pane container notice-section-procurement" id="procurement">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">November 17, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%be-16/">विज्ञान तथा प्रविधि संकायः सिलबन्दी दरभाउपत्र सम्झौता गर्नेसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">April 11, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/school-of-engineering-invitation-for-sealed-quotation/">School of Engineering: Invitation for Sealed Quotation</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">March 7, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/school-of-development-and-social-engineering-invitation-for-sealed-quotation/">School of Development and Social Engineering: Invitation for Sealed Quotation</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">March 7, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be-%e0%a4%9b%e0%a4%a8%e0%a5%8c%e0%a4%9f-%e0%a4%97%e0%a4%b0%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%ae/">परामर्शदाता छनौट गरिनेसम्बन्धी आशयको सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 28, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/invitation-for-bids-2/">Invitation for Bids</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 23, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95%e0%a4%be-2/">स्वास्थ्य विज्ञान सङ्काय–विज्ञ, विशेषज्ञ तथा परामर्श सेवा आपूर्तिका लागि सूची दर्ता सम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 17, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf%e0%a4%95-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b5%e0%a4%95%e0%a5%8b-%e0%a4%ae%e0%a5%82%e0%a4%b2/">प्राविधिक प्रस्तावको मूल्यांकन र आर्थिक प्रस्ताव खोल्नेसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 15, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/invitation-for-bids-for-the-procurement-of-books/">Invitation for Bids for the Procurement of Books</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">November 19, 2021</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a4%be-%e0%a4%9b%e0%a4%a8%e0%a5%8c%e0%a4%9f-%e0%a4%97%e0%a4%b0%e0%a4%bf%e0%a4%8f%e0%a4%95%e0%a5%8b-2/">परामर्शदाता छनौट गरिएको सम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">October 4, 2021</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/notice-of-request-for-proposal-rfp-for-consulting-services/">Notice of Request for Proposal (RFP) for Consulting Services</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">October 3, 2021</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/amendment-in-rfp-documents-for-eia-works-at-musetuda/">Amendment in RFP Documents FOR EIA Works at Musetuda</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">September 21, 2021</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/29583/">Invitation for Sealed Quotation</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/procurement/">view more</a>
+                                </div>                            
+                            </div>
+                                                    <div class="tab-pane container notice-section-scholarship" id="scholarship">
+                                <div class="row clearfix">
+                                    <div class="col-md-12">
+                                        <div class="card-columns">
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 7, 2023</p>
+			<div class="tags">		
+									<span class="badge badge-secondary badge-new">New</span>
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b-%e0%a4%b5%e0%a4%bf-%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9%e0%a4%ae%e0%a4%be-%e0%a5%a8%e0%a5%a6%e0%a5%ad%e0%a5%af-%e0%a4%b8%e0%a4%be%e0%a4%b2/">पो.वि. स्नातक तहमा २०७९ सालको छात्रवृत्ति छनौंट तथा भर्ना प्रकृया समाप्त भएको सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">February 2, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9-%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%bf-%e0%a4%95%e0%a4%be/">स्नातक तह छात्रवृत्ति कार्यक्रम विज्ञान तथा प्रविधि संकाय समूह &#8220;क&#8221; को Third-Awarded List प्रकाशित सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 17, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%8d%e0%a4%a8-18/">पोखरा विश्वविद्यालय स्नातक तह छात्रवृत्ति School Type-Others को Awarded List प्रकाशित सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 5, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/2nd-award-college-allocated-list-of-mba-mba-global-business-mhcm-scholarship/">Second Award and College Allocated List of MBA/MBA Global Business/MHCM Scholarship</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 5, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9-%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%bf-%e0%a4%b5%e0%a4%bf/">स्नातक तह छात्रवृत्ति विज्ञान तथा प्रविधि संकाय समूह-क र B.A.LL.B. कार्यक्रमको Second-Awarded List प्रकाशित सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">January 5, 2023</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%95-%e0%a4%a4%e0%a4%b9-%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a5%8b-school-t/">स्नातक तह छात्रवृत्तिको School Type-Others का व्यवस्थापन संकाय र विज्ञान तथा प्रविधि संकाय समूह ख का उम्मेदवारहरुलाई अनुसूचि ४ को online form भर्ने सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 18, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-23/">विज्ञान तथा प्रविधि सङ्कायः छात्रवृत्तितर्फ स्नातकोत्तरतहका कार्यक्रमहरूको Final Award List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 15, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-22/">विज्ञान तथा प्रविधि सङ्कायः छात्रवृत्तितर्फ स्नातकोत्तरतहका कार्यक्रमहरूको Award List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 12, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%8d%e0%a4%a8-17/">पोखरा विश्वविद्यालय स्नातक तह छात्रवृत्तिका विभिन्न कार्यक्रमहरुमा भर्ना हुनकालागि पत्र बुझन् आउने र B.A.LL.B. कार्यक्रमको उत्तिर्ण सूचि (Pass List) प्रकाशित सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 11, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b5%e0%a5%8d%e0%a4%af-5/">पोखरा विश्वविद्यालय व्यवस्थापन अध्ययन संकाय स्नातकोत्तर तह MBA/MHCM/MCIS छात्रवृत्ति कार्यक्रमको स्कूल कलेजहरुमा भर्ना हुनको लागि पत्र बुझन आउने सम्बन्धि सूचना ।</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 7, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8-%e0%a4%a4%e0%a4%a5%e0%a4%be-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a4%99%e0%a5%8d%e0%a4%95-21/">विज्ञान तथा प्रविधि सङ्कायः पूर्ण शुल्कीय तथा छात्रवृत्तिको स्नातकोत्तरतहका कार्यक्रमहरूको प्रवेश परीक्षाको Final Merit List प्रकाशनसम्बन्धी सूचना</a></h3>
+	</div>
+</div>
+                                                             
+                                                <div class="card">
+	<div class="single-notice">
+		<div class="post-head">
+			<p class="notice-date">December 6, 2022</p>
+			<div class="tags">		
+							</div>
+		</div>
+		<h3><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b8%e0%a5%8d%e0%a4%a8-16/">पोखरा विश्वविद्यालय स्नातक तह छात्रवृत्ति छनौंट समितिबाट स्नातक तहका कार्यक्रमहरुको Awarded List प्रकाशित गरिएको सूचना ।</a></h3>
+	</div>
+</div>
+                                                                                        
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="v-more ">
+                                    <a href="https://pu.edu.np/noticetype/scholarship/">view more</a>
+                                </div>                            
+                            </div>
+                                            </div>                    
+                </div>
+            </div>            
+        </div>
+    </div>
+</section>
+								<section class="counter">
+       <div class="container">
+           <div class="row">
+               <div class="col-md-12">
+                    <div class="counter-wrapper" style="">
+                        <h3>About Pokhara University</h3>
+                        <div class="counter-block" id="counter">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <div class="single-counter">
+                                        <img src="https://pu.edu.np/wp-content/uploads/2019/02/students.png" class="img-fluid student-svg">
+                                        <h4>Students</h4>
+                                        <div class="counter-value" data-count="34151">0</div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="single-counter">
+                                        <img src="https://pu.edu.np/wp-content/uploads/2019/02/colleges.png" class="img-fluid colleges-svg">
+                                        <h4>Colleges</h4>
+                                        <div class="counter-value" data-count="66">0</div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="single-counter">
+                                        <img src="https://pu.edu.np/wp-content/uploads/2019/02/cources.png" class="img-fluid programs-svg">
+                                        <h4>Running Programs</h4>
+                                        <div class="counter-value" data-count="63">0</div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="single-counter">
+                                        <img src="https://pu.edu.np/wp-content/uploads/2019/02/scholarship.png" class="img-fluid scholarship-svg">
+                                        <h4>Scholarship</h4>
+                                        <div class="counter-value" data-count="1195">0</div>
+                                    </div>
+                                </div>
+                           </div>
+                        </div>
+                    </div>
+               </div>
+           </div>
+       </div>
+   </section>
+
+
+   <script type="text/javascript">
+    jQuery(function(){
+       var a = 0;
+        jQuery(window).scroll(function() {
+          var oTop = jQuery('#counter').offset().top - window.innerHeight;
+          if (a == 0 && jQuery(window).scrollTop() > oTop) {
+            jQuery('.counter-value').each(function() {
+              var $this = jQuery(this),
+                countTo = $this.attr('data-count');
+              jQuery({
+                countNum: $this.text()
+              }).animate({
+                  countNum: countTo
+                },
+
+                {
+
+                  duration: 3000,
+                  easing: 'swing',
+                  step: function() {
+                    $this.text(Math.floor(this.countNum));
+                  },
+                  complete: function() {
+                    $this.text(this.countNum);
+                    //alert('finished');
+                  }
+
+                });
+            });
+            a = 1;
+          }
+        });
+    });
+ 
+</script>								<section class="faculties">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="faculties-content p-lr-25 gray-bg">
+                    <h2>faculties</h2>
+                    
+                </div>
+            </div>
+            <div class="col-md-12">
+                                <div class="faculties-tabs-content gray-bg p-lr-25">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                                                                                                                                                                                                                                                    <a class="nav-link active" id="t_19279-tab" data-toggle="pill" href="#t_19279" role="tab" aria-controls="t_19279" aria-selected="true">Faculty of Management Studies</a>
+                                                                                                                                                                                                                    <a class="nav-link" id="t_19278-tab" data-toggle="pill" href="#t_19278" role="tab" aria-controls="t_19278" aria-selected="false">Faculty of Science and Technology</a>
+                                                                                                                                                                                                                    <a class="nav-link" id="t_19277-tab" data-toggle="pill" href="#t_19277" role="tab" aria-controls="t_19277" aria-selected="false">Faculty of Health Sciences</a>
+                                                                                                                                                                                                                    <a class="nav-link" id="t_19276-tab" data-toggle="pill" href="#t_19276" role="tab" aria-controls="t_19276" aria-selected="false">Faculty of Humanities and Social Sciences</a>
+                                                            </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="tab-content" id="v-pills-tabContent">
+                                                                                                                                                                                                                                                    <div class="tab-pane  active show" id="t_19279" role="tabpanel" aria-labelledby="t_19279-tab">
+                                        <h2 class="heading">Faculty of Management Studies</h2>
+                                        <p>
+                                            <p style="text-align: justify;">The Faculty of Management Studies was established in 1997 under the Pokhara University Act. Pokhara University has offered Bachelor, Master and PhD programs to prospective students under the Faculty of Management Studies.</p>                                        </p>
+                                        <ul class="faculty-list">
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fms/introduction/">Introduction</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fms/dean-message/">Message from the Dean</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fms/colleges/">Schools/Colleges</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fms/programs/">Programs</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Research/Projects</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fms/news-events/">News &#038; Events</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Journals</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Photo Gallery</a></li>
+                                                                                            <li><a href="https://pu.edu.np/contact-for-fms/">Contact Us</a></li>
+                                                                                    </ul>
+                                    </div>
+                                                                                                                                                                                                                    <div class="tab-pane " id="t_19278" role="tabpanel" aria-labelledby="t_19278-tab">
+                                        <h2 class="heading">Faculty of Science and Technology</h2>
+                                        <p>
+                                            <p style="text-align: justify;">The Faculty of Science and Technology was established in 1997 under the Pokhara University Act. Pokhara University has offered Bachelor and Master programs to prospective students under the Faculty of Science and Technolgoy.</p>                                        </p>
+                                        <ul class="faculty-list">
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fst/introduction/">Introduction</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fst/message-from-the-dean/">Message from the Dean</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fst/schools-colleges/">Schools/Colleges</a></li>
+                                                                                            <li><a href="#">Programs</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fst/research-projects/">Research/Projects</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fst/news-events/">News &#038; Events</a></li>
+                                                                                            <li><a href="https://pu.edu.np/facultiescat/science-technology/?post_type=journals">Journals</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Photo Gallery</a></li>
+                                                                                            <li><a href="https://pu.edu.np/contact-for-fst/">Contact Us</a></li>
+                                                                                    </ul>
+                                    </div>
+                                                                                                                                                                                                                    <div class="tab-pane " id="t_19277" role="tabpanel" aria-labelledby="t_19277-tab">
+                                        <h2 class="heading">Faculty of Health Sciences</h2>
+                                        <p>
+                                            <p style="text-align: justify;">The Faculty of Health Sciences (FHS) was established in 2016 under the Pokhara University Act. Pokhara University has offered Bachelor and Master programs to prospective students under the Faculty of Health Sciences.</p>                                        </p>
+                                        <ul class="faculty-list">
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhs/introduction/">Introduction</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fhs/message-from-the-dean/">Message from the Dean</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhs/schools-colleges/">Schools/Colleges</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Programs</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/research-projects/">Research/Projects</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fhs/news-events/">News &#038; Events</a></li>
+                                                                                            <li><a href="https://pu.edu.np/facultiescat/health-sciences/?post_type=journals">Journals</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Photo Gallery</a></li>
+                                                                                            <li><a href="https://pu.edu.np/contact-for-fhs/">Contact Us</a></li>
+                                                                                    </ul>
+                                    </div>
+                                                                                                                                                                                                                    <div class="tab-pane " id="t_19276" role="tabpanel" aria-labelledby="t_19276-tab">
+                                        <h2 class="heading">Faculty of Humanities and Social Sciences</h2>
+                                        <p>
+                                            <blockquote>
+<p style="text-align: justify;">The Faculty of Humanities &amp; Social Science was established in 2004 under the Pokhara University Act. Pokhara University has offered Bachelor,  Master, MPhil and PhD programs to prospective students under the Faculty of Humanities &amp; Social Sciences.</p>
+</blockquote>                                        </p>
+                                        <ul class="faculty-list">
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/introduction/">Introduction</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/dean-message/">Message from the Dean</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/schools-colleges/">Schools/Colleges</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/programs/">Programs</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/research-projects/">Research/Projects</a></li>
+                                                                                            <li><a href="https://pu.edu.np/faculties/fhss/news-events/">News &#038; Events</a></li>
+                                                                                            <li><a href="https://pu.edu.np/academics/faculties/fhss/journals/">Journals</a></li>
+                                                                                            <li><a href="https://pu.edu.np">Photo Gallery</a></li>
+                                                                                            <li><a href="https://pu.edu.np/contact-for-fhss/">Contact Us</a></li>
+                                                                                    </ul>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>								<style type="text/css">
+	.video-section-title {
+		position: absolute;
+		bottom: 0;
+		left: 20px;
+	}
+	.counter .counter-wrapper .single-counter img.student-svg{margin-bottom: 20px;}
+</style>
+<section class="campus-tour">
+	<div class="container">
+				<div class="row">
+			<div class="col-sm-12">
+				<div class="p-lr-25">
+					<h2>Visit Pokhara University</h2>
+				</div>
+			</div>
+		</div>
+				<div class="row">
+
+						<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="video-content">
+					<img src="https://pu.edu.np/wp-content/uploads/2019/03/welcome-pu.jpg" alt="" class="fit-image">
+					<div class="play-button">
+						<a data-toggle="modal" video-url="https://youtu.be/6Nk4HYPohZg" class="play-this-video" data-backdrop="static" data-keyboard="false" data-target="#main-video-player" tabindex="0">
+						<i class="ion ion-logo-youtube"></i>
+						</a>
+					</div>
+									</div>
+				
+			</div>
+			
+						<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="video-content">
+					<img src="https://pu.edu.np/wp-content/uploads/2022/04/17th-con-scaled.jpg" alt="" class="fit-image">
+					<div class="play-button">
+						<a data-toggle="modal" video-url="https://youtube.com/embed/6Nk4HYPohZg" class="play-this-video" data-backdrop="static" data-keyboard="false" data-target="#main-video-player" tabindex="0">
+						<i class="ion ion-logo-youtube"></i>
+						</a>
+					</div>
+										<div class="video-section-title">
+						<h3>17th Convocation Ceremony</h3>
+					</div>
+									</div>
+			</div>
+			
+		</div>
+	</div>
+</section>								<section class="new-event-notice" style="">
+    <div class="container">
+        <div class="row no-gutters">
+            <div class="col-lg-12">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                  <li class="nav-item">
+                    <a class="nav-link active" id="news-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">News</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="events-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Events</a>
+                  </li>
+                </ul>
+ 
+ 
+                <div class="tab-content" id="news-event-tab-content">
+                    
+                    <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="news-tab">
+                        <div id="news-carousel">                            
+                                             
+                                <div class="news-carousel-item">
+	<div class="news-event-container-image" style="background:url( https://pu.edu.np/wp-content/uploads/2023/01/nmb0-scaled.jpg ) center center;">
+    	<a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b0-%e0%a4%8f%e0%a4%a8/"><img style="max-width:100%;opacity:0;" src="https://via.placeholder.com/370x208" alt="news"></a>
+	</div>
+    <div class="news-caption">
+        <h5><a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b0-%e0%a4%8f%e0%a4%a8/">पोखरा विश्वविद्यालय र एनएमबि बैंकबीच सम्झौता</a></h5>
+        <h6>January 7, 2023</h6>
+        <a href="https://pu.edu.np/notice/%e0%a4%aa%e0%a5%8b%e0%a4%96%e0%a4%b0%e0%a4%be-%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b0-%e0%a4%8f%e0%a4%a8/" class="read-more-event-news">Read More</a>
+    </div>
+</div>                                                 
+                                <div class="news-carousel-item">
+	<div class="news-event-container-image" style="background:url( https://pu.edu.np/wp-content/uploads/2023/01/research-2-e1672934413337.jpg ) center center;">
+    	<a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8-%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%a7/"><img style="max-width:100%;opacity:0;" src="https://via.placeholder.com/370x208" alt="news"></a>
+	</div>
+    <div class="news-caption">
+        <h5><a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8-%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%a7/">स्वास्थ्य अनुसन्धान पद्धतिसम्बन्धी तालिम कार्यशाला</a></h5>
+        <h6>January 5, 2023</h6>
+        <a href="https://pu.edu.np/notice/%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8-%e0%a4%aa%e0%a4%a6%e0%a5%8d%e0%a4%a7/" class="read-more-event-news">Read More</a>
+    </div>
+</div>                                                 
+                                <div class="news-carousel-item">
+	<div class="news-event-container-image" style="background:url( https://pu.edu.np/wp-content/uploads/2022/12/ciaa-pokhara.jpg ) center center;">
+    	<a href="https://pu.edu.np/notice/%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%af%e0%a5%8b%e0%a4%97-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d/"><img style="max-width:100%;opacity:0;" src="https://via.placeholder.com/370x208" alt="news"></a>
+	</div>
+    <div class="news-caption">
+        <h5><a href="https://pu.edu.np/notice/%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%af%e0%a5%8b%e0%a4%97-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d/">अख्तियार दुरूपयोग अनुसन्धान आयोगद्वारा अन्तरक्रिया कार्यक्रम आयोजना</a></h5>
+        <h6>December 9, 2022</h6>
+        <a href="https://pu.edu.np/notice/%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a4%af%e0%a5%8b%e0%a4%97-%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%a8%e0%a5%8d/" class="read-more-event-news">Read More</a>
+    </div>
+</div>                                                 
+                                <div class="news-carousel-item">
+	<div class="news-event-container-image" style="background:url( https://pu.edu.np/wp-content/uploads/2022/12/puagreementpic21.jpg ) center center;">
+    	<a href="https://pu.edu.np/notice/%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%b8%e0%a5%8d-2/"><img style="max-width:100%;opacity:0;" src="https://via.placeholder.com/370x208" alt="news"></a>
+	</div>
+    <div class="news-caption">
+        <h5><a href="https://pu.edu.np/notice/%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%b8%e0%a5%8d-2/">केन्द्रीय कार्यालय विस्तार लगायतको कार्यका लागि सम्झौता सम्पन्न</a></h5>
+        <h6>December 9, 2022</h6>
+        <a href="https://pu.edu.np/notice/%e0%a4%95%e0%a5%87%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af-%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af-%e0%a4%b5%e0%a4%bf%e0%a4%b8%e0%a5%8d-2/" class="read-more-event-news">Read More</a>
+    </div>
+</div>                                                 
+                                <div class="news-carousel-item">
+	<div class="news-event-container-image" style="background:url( https://pu.edu.np/wp-content/uploads/2022/11/P1430787-scaled.jpg ) center center;">
+    	<a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%be-%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a5%8b-%e0%a4%85%e0%a4%b5%e0%a4%b8/"><img style="max-width:100%;opacity:0;" src="https://via.placeholder.com/370x208" alt="news"></a>
+	</div>
+    <div class="news-caption">
+        <h5><a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%be-%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a5%8b-%e0%a4%85%e0%a4%b5%e0%a4%b8/">जापानमा उच्चशिक्षाको अवसरका लागि सम्वाद्</a></h5>
+        <h6>November 9, 2022</h6>
+        <a href="https://pu.edu.np/notice/%e0%a4%9c%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a8%e0%a4%ae%e0%a4%be-%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be%e0%a4%95%e0%a5%8b-%e0%a4%85%e0%a4%b5%e0%a4%b8/" class="read-more-event-news">Read More</a>
+    </div>
+</div>                                                                
+                        </div>                     
+                        <a href="/noticetype/news/" class="link-events-button-more">All News</a>
+                    </div>
+                    
+  
+                    
+                    <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="event-tab">
+                        <div id="events-carousel">
+                                             
+                                <div class="events-carousel-item">	
+	<h5>Pokhara University 16th Convocation</h5>
+	<p class="event-date">March 23, 2019</p>
+	<a href="https://pu.edu.np/events/pu-16th-convocation/" class="read-more-event-news">Read More</a>
+</div>                                             
+                                <div class="events-carousel-item">	
+	<h5>SPHERA Conference</h5>
+	<p class="event-date">March 22, 2019</p>
+	<a href="https://pu.edu.np/events/sphera-conference/" class="read-more-event-news">Read More</a>
+</div>                                             
+                                <div class="events-carousel-item">	
+	<h5>Workshop on Course Detailing of BSc. MLT</h5>
+	<p class="event-date">June 3, 2019</p>
+	<a href="https://pu.edu.np/events/workshop-on-course-detailing/" class="read-more-event-news">Read More</a>
+</div>                                             
+                                <div class="events-carousel-item">	
+	<h5>Workshop on Course Detailing of B.Pharm</h5>
+	<p class="event-date">June 13, 2019</p>
+	<a href="https://pu.edu.np/events/workshop-on-course-detailing-of-b-pharm/" class="read-more-event-news">Read More</a>
+</div>                                                               
+                        </div>
+                        <a href="/events/" class="link-events-button-more">All Events</a>     
+                    </div>
+                    
+                </div>
+            </div>            
+        </div>
+    </div>
+</section>			</div>  
+          </main>
+                  </div>
+      </div>
+    </div>
+            <footer>
+    <div class="top-footer-section">
+        <div class="container">
+            <div class="footer-links">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3">
+                        <!-- 1 -->
+                        <section class="widget nav_menu-2 widget_nav_menu"><h3>THE UNIVERSITY</h3><ul id="menu-the-university" class="menu"><li class="nav-item menu-item menu-workplaces"><a class="nav-link" href="https://pu.edu.np/workplaces/">Workplaces</a></li>
+<li class="nav-item menu-item menu-infrastructure"><a class="nav-link" href="https://pu.edu.np/infrastructure/">Infrastructure</a></li>
+<li class="active nav-item menu-item menu-statistical-data"><a class="nav-link" href="https://pu.edu.np" aria-current="page">Statistical Data</a></li>
+<li class="active nav-item menu-item menu-photo-gallery"><a class="nav-link" href="https://pu.edu.np" aria-current="page">Photo Gallery</a></li>
+<li class="nav-item menu-item menu-former-officials"><a class="nav-link" href="https://pu.edu.np/former-officials/">Former officials</a></li>
+<li class="nav-item menu-item menu-pokhara-university-act"><a class="nav-link" href="https://pu.edu.np/pokhara-university-act/">Pokhara University Act</a></li>
+<li class="nav-item menu-item menu-pu-rules"><a class="nav-link" href="https://pu.edu.np/wp-content/uploads/2022/05/PU-Rules-All.pdf">PU Rules</a></li>
+</ul></section><section class="widget nav_menu-3 widget_nav_menu"><h3>Elected bodies</h3><ul id="menu-elected-bodies" class="menu"><li class="nav-item menu-item menu-pokhara-university-teachers-association"><a class="nav-link" href="https://pu.edu.np/puta/">Pokhara  University  Teachers  Association</a></li>
+<li class="nav-item menu-item menu-free-students-unions"><a class="nav-link" href="https://pu.edu.np/fsu/">Free  Students  Unions</a></li>
+</ul></section><section class="widget_text widget custom_html-4 widget_custom_html"><h3>Contact Us</h3><div class="textwidget custom-html-widget">Pokhara University 
+<br />
+Pokhara Metropolitan City-30
+<br />
+Lekhnath, Kaski, Nepal
+<strong>Telephone:</strong>+977-61-504046
+<br />
+<strong>Post Box: </strong>427
+<br />
+<strong> E-mail:</strong> info@pu.edu.np</div></section>                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <!-- 2 -->
+                        <section class="widget_text widget custom_html-5 widget_custom_html"><h3>Central Office Inquiry</h3><div class="textwidget custom-html-widget">Reception: +977-61-504046<br />
+Research Centre: +977-61-504046<br />
+Curriculum Centre: +977-61-504026<br />
+International Relations: +977-61-504048<br />
+Planning Division: +977-61-504034<br />
+Procurement Section: +977-61-504039<br /></div></section><section class="widget nav_menu-4 widget_nav_menu"><h3>Downloads</h3><ul id="menu-downloads" class="menu"><li class="nav-item menu-item menu-application-form-for-post-of-lecture-school-of-business"><a class="nav-link" href="https://pu.edu.np/application-form-for-post-of-lecture-school-of-business-2/">Application Form for Post of Lecture (School of Business)</a></li>
+<li class="nav-item menu-item %e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%bf%e0%a4%95-%e0%a4%aa%e0%a4%a6%e0%a4%95%e0%a4%be-%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a4%bf-%e0%a4%86%e0%a4%b5%e0%a5%87%e0%a4%a6 menu-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%bf%e0%a4%95-%e0%a4%aa%e0%a4%a6%e0%a4%95%e0%a4%be-%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a4%bf-%e0%a4%86%e0%a4%b5%e0%a5%87%e0%a4%a6"><a class="nav-link" href="https://pu.edu.np/wp-content/uploads/2022/03/प्रशासनिक-पदका-लागि-आवेदन-फाराम.pdf">प्रशासनिक पदका लागि आवेदन फाराम</a></li>
+<li class="nav-item menu-item %e0%a4%b6%e0%a5%88%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%95-%e0%a4%aa%e0%a4%a6%e0%a4%95%e0%a4%be-%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a4%bf-%e0%a4%86%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%a8-%e0%a4%ab menu-%e0%a4%b6%e0%a5%88%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%95-%e0%a4%aa%e0%a4%a6%e0%a4%95%e0%a4%be-%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a4%bf-%e0%a4%86%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%a8-%e0%a4%ab"><a class="nav-link" href="https://pu.edu.np/wp-content/uploads/2022/03/शैक्षिक-पदका-लागि-आवेदन-फाराम.pdf">शैक्षिक पदका लागि आवेदन फाराम</a></li>
+<li class="nav-item menu-item menu-staffs-procedure"><a class="nav-link" target="_blank" rel="noopener" href="https://pu.edu.np/wp-content/uploads/2022/08/Staffs-Karyabidhi-2079.pdf">Staff&#8217;s Procedure</a></li>
+<li class="nav-item menu-item menu-teachers-procedure"><a class="nav-link" target="_blank" rel="noopener" href="https://pu.edu.np/wp-content/uploads/2022/08/Teachers-Karyabidhi-2079.pdf">Teacher&#8217;s Procedure</a></li>
+<li class="nav-item menu-item menu-anusuchi-forms"><a class="nav-link" href="https://pu.edu.np/anusuchi-forms/">Anusuchi Forms</a></li>
+<li class="nav-item menu-item menu-application-forms"><a class="nav-link" href="https://pu.edu.np/application-forms/">Application Forms</a></li>
+<li class="nav-item menu-item menu-annual-report"><a class="nav-link" href="https://pu.edu.np/annual-report/">Annual Report</a></li>
+<li class="nav-item menu-item menu-journals"><a class="nav-link" href="https://pu.edu.np/journals-2/">Journals</a></li>
+<li class="nav-item menu-item menu-newsletter"><a class="nav-link" href="https://pu.edu.np/newsletter/">Newsletter</a></li>
+<li class="nav-item menu-item menu-curriculum-syllabus"><a class="nav-link" href="https://pu.edu.np/curriculum-syllabus/">Curriculum-Syllabus</a></li>
+<li class="nav-item menu-item %e0%a4%ad%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%8b menu-vittepatro-%e0%a4%ad%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%8b"><a class="nav-link" href="https://pu.edu.np/vittepatro-%e0%a4%ad%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%8b/">Vittepatro (भित्तेपात्रो)</a></li>
+</ul></section>                    </div>
+                    <div class="col-sm-6 col-md-3">
+                         <!-- 3 -->
+                        <section class="widget_text widget custom_html-6 widget_custom_html"><h3>Faculty Inquiry</h3><div class="textwidget custom-html-widget">Management Studies: +977-61-504076<br />
+Science and Technology: +977-61-504075<br />
+Health Sciences: +977-61-504072<br />
+Humanities and Social Sciences: +977-61-504078<br /></div></section><section class="widget_text widget custom_html-8 widget_custom_html"><h3>School Inquiry</h3><div class="textwidget custom-html-widget">School of Business: +977-61-504147<br />
+School of Engineering: +977-61-504141<br />
+School of Health and Allied Sciences: +977-61-504036<br />
+School of Development and Social Engineering: +977-61-504038<br /></div></section><section class="widget nav_menu-10 widget_nav_menu"><h3>Information Portal</h3><ul id="menu-information-portal" class="menu"><li class="nav-item menu-item %e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%aa%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a4%b2 menu-%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be-%e0%a4%aa%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a4%b2"><a class="nav-link" href="https://pu.edu.np/information-portal/">सूचना पोर्टल</a></li>
+</ul></section>                    </div>
+                    <div class="col-sm-6 col-md-3">
+                         <!-- 4 -->
+                        <section class="widget_text widget custom_html-7 widget_custom_html"><h3>Office of the Controller of Examination</h3><div class="textwidget custom-html-widget">PU Examination : +977-61-504146<br />: +977-61-504086<br /></div></section><section class="widget_text widget custom_html-9 widget_custom_html"><h3>PU Service Commision Inquiry</h3><div class="textwidget custom-html-widget">PU Service Commisson: +977-61-504047<br /></div></section><section class="widget_text widget custom_html-10 widget_custom_html"><h3>PU Central Library Inquiry</h3><div class="textwidget custom-html-widget">PU Central Library: +977-61-504137<br /></div></section>                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="footer-links">
+                        <div class="row">
+                            <div class="col-md-6 col-sm-6">
+                                <!-- 5 -->
+                                <section class="widget nav_menu-7 widget_nav_menu"><h3>Related Links</h3><ul id="menu-related-links" class="menu"><li class="nav-item menu-item menu-universities-in-nepal"><a class="nav-link" href="https://pu.edu.np/university-in-nepal/">Universities in Nepal</a></li>
+<li class="nav-item menu-item menu-university-like-institutions"><a class="nav-link" href="https://pu.edu.np/university-like-institutions/">University Like Institutions</a></li>
+<li class="nav-item menu-item menu-ugc"><a class="nav-link" target="_blank" rel="noopener" href="http://www.ugcnepal.edu.np/">UGC</a></li>
+<li class="nav-item menu-item menu-ppmo"><a class="nav-link" target="_blank" rel="noopener" href="https://ppmo.gov.np/">PPMO</a></li>
+<li class="nav-item menu-item menu-opmcm"><a class="nav-link" target="_blank" rel="noopener" href="https://www.opmcm.gov.np/">OPMCM</a></li>
+<li class="nav-item menu-item menu-moe"><a class="nav-link" target="_blank" rel="noopener" href="https://moe.gov.np/">MOE</a></li>
+</ul></section>                            </div>
+                            <div class="col-md-6 col-sm-6">
+                                <!-- 6 -->
+                                <section class="widget media_image-3 widget_media_image"><a href="https://pu.edu.np/wp-content/uploads/2021/06/nepal-300x169.png"><img width="300" height="169" src="https://pu.edu.np/wp-content/uploads/2021/06/nepal-300x169.png" class="image wp-image-29017  attachment-medium size-medium" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://pu.edu.np/wp-content/uploads/2021/06/nepal-300x169.png 300w, https://pu.edu.np/wp-content/uploads/2021/06/nepal-768x432.png 768w, https://pu.edu.np/wp-content/uploads/2021/06/nepal.png 960w" sizes="(max-width: 300px) 100vw, 300px" /></a></section>                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="location-map">
+                         <!-- 7 -->
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom-footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <p>
+                        Copyright © 2021 | Pokhara University.                        
+                    </p>
+                </div>
+                <div class="col-md-5">
+                    <div class="social-media">
+                        <ul>
+                                                        
+                                
+                                <li><a href="https://www.facebook.com/Pokhara-University-1399596076998729/" target="_blank"><i class="ion ion-logo-facebook"></i></a></li>
+
+                            
+                                
+                                <li><a href="https://twitter.com/pukaski" target="_blank"><i class="ion ion-logo-twitter"></i></a></li>
+
+                            
+                                
+                                <li><a href="#" target="_blank"><i class="ion ion-logo-google"></i></a></li>
+
+                            
+                                
+                                <li><a href="#" target="_blank"><i class="ion ion-logo-youtube"></i></a></li>
+
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!--campus tour video Modal -->
+<div class="modal fade video-modal" id="main-video-player" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <!--<h5 class="modal-title" id="exampleModalLongTitle">TAKE A CAMPUS TOUR</h5>-->
+                <button type="button" class="close stop-video" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe id="player-iframe" class="embed-responsive-item" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<button id="goto-top" type="button">⤒</button>
+<script>
+    jQuery(window).scroll(function(){
+    if(jQuery('header').hasClass('heromode')){
+        jQuery('#goto-top').fadeOut();
+    }else {
+        jQuery('#goto-top').fadeIn();
+    }
+    });    
+    var toTop = document.getElementById("goto-top");    
+      toTop.addEventListener("click", function(){
+      scrollToTop(1000);
+    });
+    function scrollToTop(scrollDuration) {
+        var scrollStep = -window.scrollY / (scrollDuration / 5),
+            scrollInterval = setInterval(function(){
+            if ( window.scrollY != 0 ) {
+                window.scrollBy( 0, scrollStep );
+            }
+            else clearInterval(scrollInterval); 
+        },5);
+    } 
+</script>
+<script>
+    jQuery(function(){
+
+
+        jQuery(window).click(function() {
+            jQuery(".search-bar").hide();
+        });
+
+        jQuery(".search-link-btn a.nav-link").on("click",function(e){
+            e.stopPropagation();
+            e.preventDefault();   
+            if( jQuery(".search-bar").is(":visible")){
+                console.log( 'clicked: is visible' );
+                jQuery(".search-bar").attr("style","display:none!important;");                
+            }else{
+                console.log( 'clicked: is hidden' );
+                jQuery(".search-bar").attr("style","display:block!important;");
+            }            
+        }); 
+                setTimeout(function(){
+            jQuery(".search-link-btn").on("click",function(e){
+                e.stopPropagation();
+                e.preventDefault();   
+                if( jQuery(".search-bar").is(":visible")){
+                    console.log( 'clicked: is visible' );
+                    jQuery(".search-bar").attr("style","display:none!important;");                
+                }else{
+                    console.log( 'clicked: is hidden' );
+                    jQuery(".search-bar").attr("style","display:block!important;");
+                }            
+            });
+        },3000);   
+                 
+    });
+</script>
+
+<!-- <footer class="content-info">
+  <div class="container">
+      </div>
+</footer> -->
+      <script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+var colomatpauseInit = '';
+var colomattouchstart = '';
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145827208-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145827208-1');
+</script>
+<style type="text/css" media="screen">.is-menu path.search-icon-path { fill: #848484;}body .popup-search-close:after, body .search-close:after { border-color: #848484;}body .popup-search-close:before, body .search-close:before { border-color: #848484;}</style><script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/auto-advance-for-gravity-forms/js/aafg_script.js?ver=29' id='auto-trigger-next-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6' id='jquery-posttabs-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/pu.edu.np\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.23' id='collapseomatic-js-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2' id='jquery-effects-core-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2' id='jquery-effects-slide-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/effect-highlight.min.js?ver=1.13.2' id='jquery-effects-highlight-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/effect-fold.min.js?ver=1.13.2' id='jquery-effects-fold-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.13.2' id='jquery-effects-blind-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/show-hidecollapse-expand/assets/js/bg-show-hide.js?ver=6.1.1' id='bg-show-hide-script-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=1.7.35' id='dflip-script-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/social-icons-widget-by-wpzoom/assets/js/social-icons-widget-frontend.js?ver=1667801467' id='zoom-social-icons-widget-frontend-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/themes/pucomnp/dist/scripts/main.js' id='sage/main.js-js'></script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/themes/pucomnp/dist/scripts/site.js' id='sage/site.js-js'></script>
+<script type='text/javascript' id='ivory-search-scripts-js-extra'>
+/* <![CDATA[ */
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pu.edu.np/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.4.10' id='ivory-search-scripts-js'></script>
+  </body>
+</html>
+
+<!-- Dynamic page generated in 0.639 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-02-07 17:03:48 -->
+
+<!-- super cache -->
